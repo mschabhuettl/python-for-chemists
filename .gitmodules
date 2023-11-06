@@ -1,0 +1,6 @@
+[submodule "tut01-pythonbasics1"]
+	path = tut01-pythonbasics1
+	url = git@github.com:mschabhuettl/tut01-pythonbasics1.git
+[submodule "tut02-pythonbasics2"]
+	path = tut02-pythonbasics2
+	url = git@github.com:mschabhuettl/tut02-pythonbasics2.git
