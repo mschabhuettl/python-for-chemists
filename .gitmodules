@@ -4,3 +4,24 @@
 [submodule "tut02-pythonbasics2"]
 	path = tut02-pythonbasics2
 	url = git@github.com:mschabhuettl/tut02-pythonbasics2.git
+[submodule "tut03-creatingplots"]
+	path = tut03-creatingplots
+	url = git@github.com:mschabhuettl/tut03-creatingplots.git
+[submodule "tut04-filesandfitting"]
+	path = tut04-filesandfitting
+	url = git@github.com:mschabhuettl/tut04-filesandfitting.git
+[submodule "tut05-analyticalcalculations"]
+	path = tut05-analyticalcalculations
+	url = git@github.com:mschabhuettl/tut05-analyticalcalculations.git
+[submodule "tut06-machinelearning"]
+	path = tut06-machinelearning
+	url = git@github.com:mschabhuettl/tut06-machinelearning.git
+[submodule "tut07-atomicsimulationenvironment"]
+	path = tut07-atomicsimulationenvironment
+	url = git@github.com:mschabhuettl/tut07-atomicsimulationenvironment.git
+[submodule "tut08-quantummechanicalcalculationswithase"]
+	path = tut08-quantummechanicalcalculationswithase
+	url = git@github.com:mschabhuettl/tut08-quantummechanicalcalculationswithase.git
+[submodule "tut10-quiz"]
+	path = tut10-quiz
+	url = git@github.com:mschabhuettl/tut10-quiz.git
